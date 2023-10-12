@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-sumitgupta314
 
 Running at: <https://jpa03-sumitgupta314.dokku-08.cs.ucsb.edu>
 
